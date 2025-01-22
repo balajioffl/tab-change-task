@@ -104,7 +104,7 @@ button
 
 .para:hover
 {
-    font-weight: 600;
+    text-decoration: underline;
 }
 
 h3
